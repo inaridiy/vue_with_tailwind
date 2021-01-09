@@ -1,4 +1,7 @@
-# first_test
+# Vue+tailwindCSS
+
+これはtailwindCSSとVueのテンプレートです。
+あらかじめVueCLIを導入してください
 
 ## Project setup
 ```
